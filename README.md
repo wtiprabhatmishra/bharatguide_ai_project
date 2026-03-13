@@ -1,15 +1,26 @@
 # BharatGuide AI
 
-AI Agent built using Google Gemini.
+BharatGuide AI is a multimodal travel intelligence agent built using Google Gemini.
 
-Features:
-- Ask questions
-- Gemini AI responses
-- Simple frontend + backend
+It allows users to ask questions about Indian locations, monuments, travel routes and culture.
 
-## Backend Run
-npm install express cors @google/generative-ai
-node server.js
+Future features include:
 
-## ENV
-GEMINI_API_KEY=your_api_key
+• Voice interaction
+• Image recognition
+• BharatPath map navigation
+• AI storytelling
+
+Tech Stack
+
+Frontend
+React
+
+Backend
+NodeJS
+
+AI
+Google Gemini
+
+Cloud
+Google Cloud Run
